@@ -1,58 +1,43 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## SepsiPredict: An Early Prediction of Sepsis using Machine Learning Model
+SepsiPredict focuses on developing a machine learning model for early sepsis detection using patient data, aiming to predict the onset of sepsis with high accuracy. By employing models such as Logistic Regression, Random Forest, Gradient Boosting, and XGBoost, the system assists healthcare professionals in making timely interventions to improve patient outcomes.
 
 ## About
-<!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
-
-## Features
-<!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+Sepsis is a life-threatening condition caused by the body's extreme response to infection, often resulting in organ failure, tissue damage, and death. Early detection of sepsis is critical for timely intervention, reducing complications, and improving patient outcomes. In this study, we aim to develop an accurate and efficient machine learning-based sepsis prediction model using clinical datasets. By analyzing patient data such as vital signs, laboratory values, and demographic information, we employ various machine learning techniques to predict the likelihood of sepsis. Models including Logistic Regression, Random Forest, Gradient Boosting, and XGBoost are trained and evaluated for their effectiveness in predicting sepsis. The dataset used in this study includes real-world patient records, and the models are optimized to handle class imbalance and improve prediction accuracy. Our goal is to provide healthcare professionals with a reliable tool to aid in the early detection of sepsis, allowing for prompt intervention and improved patient care outcomes.
 
 ## Requirements
-<!--List the requirements of the project as shown below-->
+
 * Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
 * Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
-
+* Google Colab
+  
 ## System Architecture
-<!--Embed the system architecture diagram as shown below-->
-
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
-
+![SepsiArchi](https://github.com/user-attachments/assets/2f6c9bc5-b31b-4dde-b4da-215fe9c32c37)
 
 ## Output
+![s1](https://github.com/user-attachments/assets/61823787-7c8e-4231-b817-c80be93e67a6)
+![s2](https://github.com/user-attachments/assets/dcd3678a-0c71-4b64-860c-2abde533c04d)
+![s3](https://github.com/user-attachments/assets/98c47334-79c6-4aa2-9a42-9c9d14da8e33)
+![s4](https://github.com/user-attachments/assets/f7315b73-413a-4ea4-bb61-1f677ec543ca)
+![s5](https://github.com/user-attachments/assets/76fb34b3-6952-4422-a3ec-4f6a18bf8a9d)
 
-<!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
-
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
-
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
-
-Detection Accuracy: 96.7%
+Prediction accuracy: 82%
 Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+In this project, our experiments indicate that early detection of sepsis based on patient data can significantly improve patient outcomes and reduce mortality rates. We are using a combination of machine learning models such as Logistic Regression, Random Forest, Gradient Boosting, and XGBoost, along with data preprocessing techniques for predicting the likelihood of sepsis in patients. By leveraging these algorithms, healthcare professionals can receive accurate predictions in real-time, allowing for faster diagnosis and treatment.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+Our approach ensures that medical teams can promptly identify sepsis, improving the chances of early intervention and reducing the risks associated with delayed diagnosis.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+1.  Bhaskaracharya, D., & Mehta, D. (2023). Machine Learning Models for Early Prediction of Malignancy in Sepsis Using Clinical Dataset. 2023 International Conference on Smart Systems for Applications in Electrical Sciences.
+2. Jinghua Xu §, Natalia Minakova §, Pablo Ortega Sanchez § and Stefan Riezle (2021) Early Prediction of Sepsis using Time Series Forecasting Reyna, M.A., Josef, C., Jeter, R., et al. (2019). 
+3. Early prediction of sepsis from clinical data: the PhysioNet/Computing in Cardiology Challenge 2019. Critical Care Medicine.
+4. Lupu, F. (2008). Overview of the pathophysiology of sepsis. Journal of Cellular and Molecular Medicine, 12(4), 1072-1073.
+5. Nemil Shah, Jay Bhatia, Nimit Vasavat, Rishi Desai, Pankaj Sonawane (2021) Early Sepsis Detection using Machine Learning and Neural Networks 
+6. Rout, S. K., Regulwar, G. B., & Kavididevi, V. (2023). Deep Learning in Early Prediction of Sepsis and Diagnosis. 2023 International Conference for Advancement in Technology (ICONAT).
+
+
 
 
 
