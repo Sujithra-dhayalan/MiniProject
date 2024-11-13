@@ -14,14 +14,25 @@ Sepsis is a life-threatening condition caused by the body's extreme response to 
 ![SepsiArchi](https://github.com/user-attachments/assets/2f6c9bc5-b31b-4dde-b4da-215fe9c32c37)
 
 ## Output
-![s1](https://github.com/user-attachments/assets/61823787-7c8e-4231-b817-c80be93e67a6)
-![s2](https://github.com/user-attachments/assets/dcd3678a-0c71-4b64-860c-2abde533c04d)
-![s3](https://github.com/user-attachments/assets/98c47334-79c6-4aa2-9a42-9c9d14da8e33)
-![s4](https://github.com/user-attachments/assets/f7315b73-413a-4ea4-bb61-1f677ec543ca)
-![s5](https://github.com/user-attachments/assets/76fb34b3-6952-4422-a3ec-4f6a18bf8a9d)
+![knn](https://github.com/user-attachments/assets/4eb01981-6906-4661-a535-855f3e45d7d1)
+![gnb](https://github.com/user-attachments/assets/abd42e6e-f2a3-4715-949e-f9533b2aa188)
+![log](https://github.com/user-attachments/assets/37d3d478-0b3a-4d14-9864-c1848f54206b)
+![rfc](https://github.com/user-attachments/assets/6c01ed51-a009-4b2e-b827-e878d781b225)
+![xgb](https://github.com/user-attachments/assets/e61cd11a-3161-4558-ad94-402723743fa2)
 
-Prediction accuracy: 82%
-Note: These metrics can be customized based on your actual performance evaluations.
+![rfc_xai1](https://github.com/user-attachments/assets/e68d7bdd-5599-4aa0-b332-3ac5ccfd43fd)
+![rfc_xai2](https://github.com/user-attachments/assets/0d489b50-e407-4ed5-88b4-d3c8f8f165f0)
+![knn_xai1](https://github.com/user-attachments/assets/54b88544-b4f6-48ee-8245-7655e74e06bd)
+![knn_xai2](https://github.com/user-attachments/assets/bbce1bb3-32f5-4513-af13-50bfef910b13)
+![log_xai1](https://github.com/user-attachments/assets/dde10235-8c52-4818-a18f-2adcbc1cc126)
+![log_xai2](https://github.com/user-attachments/assets/e53bc1f6-32ca-42d7-be26-280f20fa7262)
+![gnb_xai1](https://github.com/user-attachments/assets/6dba8530-f837-4b59-aff0-ecd5be09e389)
+![gnb_xai2](https://github.com/user-attachments/assets/79b1819a-6c54-4215-a2a5-e4d8bf6e3af6)
+
+
+
+Prediction accuracy: 94%
+
 
 
 ## Results and Impact
